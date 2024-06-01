@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #739BD0;
+            background-color: #FFD0D0;
         }
         .container {
             max-width: 800px;
@@ -50,7 +50,7 @@
         <div class="header">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqewsVsesf9MG6pFBWuM2lf-2xHEcYpJxNsQsU6uE08f0iSFgZIbVFV805o-udTXCl_iGcwBjTG-WyqYdSjDWAoCfr3UjuY3ZufZLPlaalMqP5ffxmdNSxKlVLknYzum29SM16frSqesUa3o1ata_jImaAwzd6G_21bnDglqZ9t0qFdpeKBUPN95VKsk/w453-h340/IMG2452.JPG" alt="Foto Profil">
             <h1>Della Syafiqa</h1>
-            <p>Kota Serang , Banten |delasyafiqaaa@gmail.com | 0877-7467-9660 </p>
+            <p>Kota Serang ,Banten | delasyafiqaaa@gmail.com | 0877-7467-9660 </p>
    </div>
         <div class="content">
             <head>
